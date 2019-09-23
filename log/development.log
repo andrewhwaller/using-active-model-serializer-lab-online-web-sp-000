@@ -1887,3 +1887,6 @@ Processing by ProductsController#index as HTML
   Rendering products/index.html.erb within layouts/application
   [1m[36mProduct Load (0.3ms)[0m  [1m[34mSELECT "products".* FROM "products"[0m
   Rendered products/index.html.erb within layouts/application (7.5ms)
+Completed 200 OK in 1079ms (Views: 1075.2ms | ActiveRecord: 0.3ms)
+
+
